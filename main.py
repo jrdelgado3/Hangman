@@ -1,7 +1,7 @@
-from methods_help import method_help
+# from methods_help import method_help
 from functions import function
-from returnStuff import returnS
+# from returnStuff import returnS
 
-method_help()
+# method_help()
 function()
-returnS()
+# returnS()
